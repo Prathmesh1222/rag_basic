@@ -1,0 +1,5 @@
+Flask
+flask-cors
+sentence-transformers
+psycopg2-binary
+pgvector
